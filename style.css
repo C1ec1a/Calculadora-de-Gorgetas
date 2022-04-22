@@ -1,0 +1,124 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+
+:raiz {
+
+  --cor primária: #F1BEBE;
+
+  --cor secundária: #EEBEF1;
+
+  --cor terciária: #DDBEF1;
+
+}
+
+corpo {
+
+    tamanho da fonte: 15pt;
+
+    fundo: var(--cor primária);
+
+    família de fontes: Lato;
+
+}
+
+#container {
+
+  altura: 525px;
+
+  largura: 360px;
+
+  margem: 100px automático;
+
+  fundo: branco;
+
+  box-shadow: 3px 3px 3px #EF9797;
+
+  raio da borda: 20px;
+
+}
+
+.título {
+
+  antecedentes: ganhosboro;
+
+  preenchimento: 20px;
+
+  alinhamento de texto: centro;
+
+  transformação de texto: maiúsculas;
+
+  tamanho da fonte: 18px;
+
+  peso da fonte: normal;
+
+  borda-topo-esquerda-raio: 20px;
+
+  borda-topo-direita-raio: 20px;
+
+}
+
+.tipsForm{
+
+  padding-esquerdo: 20px;
+
+  padding-right: 20px;
+
+}
+
+.formInput {
+
+  fundo: branco;
+
+  largura: 40px;
+
+  preenchimento: 5px 5px 8px 8px;
+
+}
+
+.formSelecione {
+
+  largura: 180px;
+
+  preenchimento: 5px;
+
+  tamanho da fonte: 12px;
+
+}
+
+.formSubmit {
+
+  transformação de texto: maiúsculas;
+
+  intensidade da fonte: Negrito;
+
+  exibição: bloco;
+
+  margem: 30px automático;
+
+  fundo: var(--cor primária);
+
+  raio da borda: 5px;
+
+  largura: 200px;
+
+  altura: 50px;
+
+  tamanho da fonte: 17px;
+
+  cor branca;
+
+}
+
+#totDica {
+
+  tamanho da fonte: 18px;
+
+  margem superior: 5px;
+
+  alinhamento de texto: centro;
+
+  
+
+}
+
+   
+
